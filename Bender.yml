@@ -54,6 +54,7 @@ sources:
       - test/tb_axi_atop_filter.sv
       - test/tb_axi_delayer.sv
       - test/tb_axi_dw_downsizer.sv
+      - test/tb_axi_dw_upsizer.sv
       - test/tb_axi_lite_to_axi.sv
       - test/tb_axi_to_axi_lite.sv
       - test/tb_axi_xbar_pkg.sv
